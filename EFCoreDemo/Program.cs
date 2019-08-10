@@ -6,7 +6,7 @@ namespace EFCoreDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World啊!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
